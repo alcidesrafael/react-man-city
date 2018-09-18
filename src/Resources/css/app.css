@@ -164,7 +164,7 @@ footer .footer_discl {
 .featured_wrapper {
     margin: 0 auto;
     width: 1280px;
-    margin-top: 90px;
+    /* margin-top: 90px; */
     height: 800px;
     overflow: hidden;
 }
@@ -176,7 +176,6 @@ footer .footer_discl {
     position: relative;
     font-family: 'Righteous', cursive;
 }
-
 
 .featured_stripes .stripe {
     width: 230px;
@@ -198,6 +197,7 @@ footer .footer_discl {
     background-repeat: no-repeat !important;
     position: absolute;
 }
+
 .featured_first {
     position: absolute;
     background: #0e1731;
