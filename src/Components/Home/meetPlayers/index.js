@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import Reveal from 'react-reveal/Reveal';
 
 import Stripes from '../../../Resources/images/stripes.png';
-import HomeCards from './cards';
+import HomeCards from './Cards';
 import { Tag } from '../../ui/misc';
 
 

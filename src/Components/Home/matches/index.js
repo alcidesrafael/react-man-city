@@ -14,7 +14,7 @@ const MatchesHome = () => {
 
         <Blocks />
 
-        <Tag link linkTo="/the_team" bck="#ffffff" size="22px" color="#0e1731">
+        <Tag link linkTo="/the_matches" bck="#ffffff" size="22px" color="#0e1731">
           See more matches
         </Tag>
       </div>
